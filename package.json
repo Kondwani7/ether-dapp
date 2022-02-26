@@ -14,10 +14,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@chakra-ui/react": "^1.8.5",
+    "@emotion/react": "^11.8.1",
+    "@emotion/styled": "^11.8.1",
     "@truffle/contract": "^4.4.10",
     "chai": "^4.3.6",
     "chai-as-promised": "^7.1.1",
     "chai-bignumber": "^3.0.0",
+    "framer-motion": "^6.2.8",
     "lite-server": "^2.6.1",
     "nodemon": "^2.0.15",
     "truffle": "^5.5.2"
